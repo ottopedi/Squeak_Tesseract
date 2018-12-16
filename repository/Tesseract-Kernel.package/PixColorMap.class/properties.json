@@ -1,0 +1,14 @@
+{
+	"category" : "Tesseract-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PixColorMap",
+	"pools" : [
+		 ],
+	"super" : "ExternalStructure",
+	"type" : "normal" }

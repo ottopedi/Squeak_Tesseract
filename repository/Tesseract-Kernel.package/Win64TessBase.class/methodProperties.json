@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apiGetTessBase" : "EAN 12/14/2018 06:48",
+		"apiPixRead:" : "EAN 11/17/2018 08:41",
+		"getTessBase" : "EAN 12/13/2018 11:49",
+		"getTesseractPtr" : "EAN 12/13/2018 11:49",
+		"pixRead:" : "EAN 11/26/2018 18:54",
+		"setTesseractPtr:" : "EAN 12/13/2018 11:48" } }

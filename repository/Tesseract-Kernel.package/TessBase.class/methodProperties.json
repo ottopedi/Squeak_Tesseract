@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"fields" : "EAN 12/13/2018 06:13" },
+	"instance" : {
+		"getTesseract" : "EAN 12/13/2018 11:45",
+		"setTesseract:" : "EAN 12/13/2018 11:46",
+		"tessBasePtr" : "EAN 12/13/2018 06:14",
+		"tessBasePtr:" : "EAN 12/13/2018 06:14" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Tesseract-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tesseractPtr" ],
+	"name" : "TessBase",
+	"pools" : [
+		 ],
+	"super" : "ExternalStructure",
+	"type" : "normal" }
